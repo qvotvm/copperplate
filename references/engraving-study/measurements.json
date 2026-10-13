@@ -1,0 +1,81 @@
+{
+ "prr-1912.jpg": {
+  "px": [
+   3564,
+   2364
+  ],
+  "coverage_full": 0.265,
+  "paper_L": 225,
+  "ink_L": 22,
+  "border_lines_per_1000px_horizontal": 72.0,
+  "border_coverage": 0.598,
+  "px_per_mm": 12.29,
+  "title_panel_coverage": 0.526,
+  "title_panel_height_px": 189,
+  "title_panel_height_ratio_of_sheet": 0.08,
+  "body_tint_coverage": 0.119
+ },
+ "bo-railroad.jpg": {
+  "px": [
+   3426,
+   2225
+  ],
+  "coverage_full": 0.317,
+  "paper_L": 196,
+  "ink_L": 52,
+  "border_lines_per_1000px_horizontal": 28.7,
+  "border_coverage": 0.779,
+  "title_coverage": 0.511,
+  "title_cap_height_ratio": 0.091,
+  "figure_drapery_coverage": 0.365,
+  "figure_lines_per_1000px": 30.5
+ },
+ "standard-oil-1882.jpg": {
+  "px": [
+   3840,
+   2028
+  ],
+  "coverage_full": 0.12,
+  "paper_L": 255,
+  "ink_L": 56,
+  "sky_lines_per_1000px": 68.0,
+  "sky_coverage": 0.18,
+  "ground_coverage": 0.575,
+  "ground_lines_per_1000px": 151.5,
+  "title_coverage": 0.137,
+  "title_cap_height_ratio_of_sheet": 0.071
+ },
+ "usd1-1899-black-eagle.jpg": {
+  "px": [
+   2500,
+   2247
+  ],
+  "coverage_full": 0.472,
+  "paper_L": 246,
+  "ink_L": 0,
+  "wing_lines_per_1000px": 27.8,
+  "wing_coverage": 0.276,
+  "breast_coverage": 0.698,
+  "sky_coverage": 0.238,
+  "sky_lines_per_1000px": 12.2,
+  "px_per_mm": 13.23
+ },
+ "usd2-1896-educational.jpg": {
+  "px": [
+   3840,
+   3367
+  ],
+  "coverage_full": 0.477,
+  "paper_L": 252,
+  "ink_L": 0
+ },
+ "pocahontas-1907.jpg": {
+  "px": [
+   2048,
+   1430
+  ],
+  "coverage_full": 0.271,
+  "paper_L": 236,
+  "ink_L": 25
+ }
+}

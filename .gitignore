@@ -1,0 +1,7 @@
+out/
+node_modules/
+*.log
+.DS_Store
+examples/*/certificate.html
+examples/*/certificate.svg
+examples/*/certificate.meta.json
